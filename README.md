@@ -1,1 +1,1 @@
-# AI-Chat-Assistant
+AI Chat Assistant is a responsive AI-powered conversational application built with React.js and the Google Gemini API. It allows users to interact with Gemini through natural-language prompts and receive AI-generated responses. The application uses React Context API for centralized state management and includes features such as prompt history, new chat functionality, loading animations, dynamic response rendering, and a responsive user interface.
